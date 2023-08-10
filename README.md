@@ -7,7 +7,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Of course! Here's a list of functionalities you can include in your TODO App using React and Redux Toolkit:
+Here's a list of functionalities you can include in your TODO App using React and Redux Toolkit:
 
 1. **Task List Display:**
    - Display a list of tasks (TODOs) with their titles and completion status.
